@@ -1,0 +1,29 @@
+_repo: Aleutian-Indian-and-English-Dictionary--13-Common-Words-in-the-Dialects-of-the-Aleutian-India__10040
+_version: 0.0.1
+alternative_title: Alaska Indian Dictionary
+creator:
+  author:
+    agent_name: Lee, Charles A.
+    gutenberg_agent_id: '3275'
+    url: http://www.gutenberg.org/2009/agents/3275
+description: ''
+gutenberg_bookshelf: Native America
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10040'
+language:
+- en
+- ale
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Dictionaries -- Aleut'
+- !lcsh 'Aleut language -- Dictionaries -- English'
+- !lcc 'PM'
+- GITenberg
+title: "Aleutian Indian and English Dictionary\r\nCommon Words in the Dialects of\
+  \ the Aleutian Indian Language as Spoken by the Oogashik, Egashik, Anangashuk and\
+  \ Misremie Tribes Around Sulima River and Neighboring Parts of the Alaska Peninsula"
+url: http://www.gutenberg.org/ebooks/10040
