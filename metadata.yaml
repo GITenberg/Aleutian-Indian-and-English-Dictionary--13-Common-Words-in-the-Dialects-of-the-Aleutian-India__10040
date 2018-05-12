@@ -1,12 +1,17 @@
 _repo: Aleutian-Indian-and-English-Dictionary--13-Common-Words-in-the-Dialects-of-the-Aleutian-India__10040
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Alaska Indian Dictionary
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lee, Charles A.
     gutenberg_agent_id: '3275'
     url: http://www.gutenberg.org/2009/agents/3275
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10040#Aleutian-Indian-and-English-Dictionary--13-Common-Words-in-the-Dialects-of-the-Aleutian-India_
 gutenberg_bookshelf: Native America
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
